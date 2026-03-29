@@ -1,0 +1,17 @@
+build/
+*.lib
+*.exp
+*.pdb
+*.iobj
+*.ipdb
+*.obj
+*.tlog
+*.lastbuildstate
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+.vs/
+
+ScreenChat.asi
+ScreenChat-v*.zip
